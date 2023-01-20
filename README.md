@@ -2,6 +2,8 @@
 
 ## Overview
 
+### GitHub Pages Link: https://laurenmcquillan.github.io/UFO/
+
 The purpose of this project was to store UFO sighting data in a JavaScript array and create a table that organizes and displays the data. The table includes five filters that makes the table dynamic, meaning that it can take user input and display UFO sightings depending on the input that was entered. The data can be filtered on more than one criterion at the same time. The filters are UFO sighting date, city, state, country, and shape of the UFO. In addition to these fields being displayed in the data, the table also includes duration of UFO sighting and additional comments. The table is contained within an HTML file allowing it to be easily used and viewed as a webpage.
 
 ## Results
